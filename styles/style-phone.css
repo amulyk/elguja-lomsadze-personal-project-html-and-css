@@ -478,7 +478,7 @@
 }
 .sidebar4{
     position: relative;
-    left: 610px;
+    left: 608px;
     top: -69px;
     height: 195px;
 }
@@ -519,12 +519,12 @@
     margin-top: 528.3px;
 }
 .blog-title.thi{
-    margin-top: 308px;
+    margin-top: 298.6px;
     margin-left: 599px;
 }
 .hat{
     background-color: black;
-    margin-top: 98px
+    margin-top: 107px;
     height: 673px;
 }
 .hat > .middle-pic{
@@ -566,13 +566,13 @@
 .but-1 {
     background: black;
     border: 1px solid white;
-    padding: 13px 29px;
+    padding: 13px 36px;
     color: white;
     font-weight: 700;
     font-size: 15;
     position: relative;
-    left: 794px;
-    top: -32px;
+    left: 786px;
+    top: -36px;
     letter-spacing: 1px;
     font-family: 'Lato', sans-serif;
 }
@@ -585,13 +585,13 @@
     font-weight: 700;
     font-size: 15px;
     position: relative;
-    left: 810px;
-    top: -31px;
+    left: 795px;
+    top: -35px;
     font-family: 'Lato', sans-serif;
 }
 .cllick{
     width: 100px;
-    margin-top: 11px;
+    margin-top: 7px;
     margin-left: 181px;
 }
 .cllick2{
@@ -607,7 +607,7 @@
     position: relative;
     left: 349px;
     line-height: 25px;
-    margin-top: 97.3px;
+    margin-top: 95.9px;
     width: 658px;
     color: black;
     font-size: 36px;
@@ -660,7 +660,7 @@
 .second-section > .text22 > .h3-1{
     color: black;
     font-size: 16px;
-    top: -393px;
+    top: -390px;
     position: relative;
     letter-spacing: -0.8px;
     left: 976.1px;
@@ -670,7 +670,7 @@
 .second-section > .text22 > .h3-2{
     color: black;
     font-size: 16px;
-    top: -528px;
+    top: -525px;
     position: relative;
     letter-spacing: -0.8px;
     left: 1105.1px;
@@ -680,7 +680,7 @@
 .second-section > .text22 > .h3-3{
     color: black;
     font-size: 16px;
-    top: -663px;
+    top: -659px;
     position: relative;
     letter-spacing: -0.8px;
     left: 1247.4px;
@@ -689,7 +689,7 @@
 .second-section > .text22 > .h3-4{
     color: black;
     font-size: 16px;
-    top: -797px;
+    top: -792px;
     position: relative;
     letter-spacing: -0.8px;
     left: 1360.4px;
