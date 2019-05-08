@@ -1,0 +1,120 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.btn-1 {
+    background: #1D2C3B;
+    border: none;
+    padding: 13px 29px;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.btn-2 {
+    background: #1ABC9C;
+    border: none;
+    padding: 13px 33px;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+/* Styling header... */
+.header {
+    background: #2C3E50;
+    padding: 30px 0 60px 0;
+}
+.header .container {
+    display: flex;
+    justify-content: space-between;
+}
+.header .logo {
+    margin-left: 9.3px;
+}
+.nav-links {
+    margin: 23px 0;
+
+    position: relative;
+    left: -9.9px;
+}
+.nav-link {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 14px;
+}
+.nav-link-1{
+    margin-right: 35px
+}
+.nav-link-2{
+    margin-left: -1px;
+}
+.nav-link-3{
+    margin-left: 0px;
+}
+.nav-link-4{
+    margin-left: 0px;
+}
+.nav-link-5{
+    margin-left: 0px;
+    position: relative;
+    left: 69px;
+}
+.nav-link-6{
+    margin-left: 0px;
+    position: relative;
+    left: 99px;
+}
+.nav-link-7{
+    margin-left: 0px;
+    position: relative;
+    left: 131px;
+}
+.nav-link:nth-child(3){
+    margin-left: 35px;
+}
+.nav-link:nth-child(4){
+    margin-left: 0px;
+    position: relative;
+    left: 34px;
+}
+.nav-btn {
+    color: #fff;
+    background: #2C3E50;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding: 5px;
+}
+.nav-btn.nav1{
+    position: relative;
+    top: 25px;
+    left: 1px;
+}
+.nav-btn.nav2{
+    position: relative;
+    left: 7px;
+    top: 24px;
+}
+.nav-btn:first-child {
+    color: #fff;
+    border-radius: 50%;
+    padding: 5px;
+    background: #1ABC9C;
+    border: 1px solid #1ABC9C;
+}
+.nav-btn:hover {
+    background: #1ABC9C;
+    border: 1px solid #1ABC9C;
+}
